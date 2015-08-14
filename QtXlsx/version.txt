@@ -1,0 +1,8 @@
+
+
+20150815 convert to static library project
+
+20150813 test on qt 5.4.2 mingw32
+
+
+
